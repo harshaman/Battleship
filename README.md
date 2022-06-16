@@ -33,6 +33,9 @@ Note:
   
   if the topleft coordinate of a ship is (0,1) and bottomRight coordinate is (2,0), a player must hit (0,1), (0,0), (1,0), (1,1), (2,0), (2,1) to fully destroy this ship of length 2, placed horizontally.
   
+# Design Patterns used
+- Strategy Pattern
+  
 # Sample Output
 ```
 Welcome to Battleship. Choose a game mode and type 'START' to play:
